@@ -4,7 +4,7 @@ def no_puppies
   if no_puppies>0
     puts "No more puppies!"
   elsif no_puppies<0
-    puts "Well done, Rachel!"
+    puts "good job"
   end
 end
 
