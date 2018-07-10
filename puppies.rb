@@ -13,11 +13,11 @@ end
 # 2. Rachel's animal accumulation has been going well and we're going to cut her some slack. Write a new method called less_puppies that takes in a number of puppies as an argument and tells Rachel good job when she gets less than 3 puppies, to slow down if she's found exactly 3 puppies, and to get back on her animal restriction if she gets more than 3 puppies.
 def less_puppies
   if less_puppies<3
-    puts"good job"
+    puts"Good job Rachel"
   elsif less_puppies== 3
-  puts "slow down"
+  puts "Slow down Rachel"
 else less_puppies>3
-  puts "get back to your animal restriction"
+  puts "Get back to your animal restriction"
 end
 end
    
