@@ -2,7 +2,7 @@
 no_puppies=3
 def no_puppies
   if no_puppies>0
-    puts "No more puppies!"
+    puts "go back to your animal goal!"
   else no_puppies<0
     puts "good job"
   end
